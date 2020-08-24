@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zozojun.github.io/2020/08/21/%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Egithub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-hexo-github/</loc>
+    
+    <lastmod>2020-08-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zozojun.github.io/tags/index.html</loc>
     
     <lastmod>2020-08-23</lastmod>
@@ -15,17 +22,10 @@
     
   </url>
   
-  <url>
-    <loc>https://zozojun.github.io/2020/08/21/%E6%90%AD%E5%BB%BA%E5%9F%BA%E4%BA%8Egithub%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-hexo-github/</loc>
-    
-    <lastmod>2020-08-21</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://zozojun.github.io/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,11 +33,18 @@
   
   <url>
     <loc>https://zozojun.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-08-23</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://zozojun.github.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-08-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
